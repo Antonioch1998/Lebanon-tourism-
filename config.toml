@@ -1,0 +1,5 @@
+[theme]
+base = "light"
+# Accent colour for the selected button, the focus ring and links. It is the
+# same violet used for the selected governorate's towns in the scatter.
+primaryColor = "#4a3aa7"
